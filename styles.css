@@ -17,11 +17,36 @@ body{
 #mainContent {
   font-family: 'Quicksand', sans-serif;
   background-color: #FFD6EE;
+  text-align: center;
+}
+
+#mainContent h2{
+  font-family: 'hvd_comic_serif_proregular', sans-serif;
 }
 
 #mainTitle {
   font-family: 'hvd_comic_serif_proregular', sans-serif;
   background-color: #FFD6EE;
+  text-align: center;
+}
+
+#mainContent2 {
+  font-family: 'Quicksand', sans-serif;
+  background-color: #FFD6EE;
+  width: 58%;
+  margin-left: 20%;
+  padding: 1%;
+}
+
+#mainTitle2 {
+  font-family: 'hvd_comic_serif_proregular', sans-serif;
+  background-color: #FFD6EE;
+  width: 58%;
+  margin-left: 20%;
+  padding: 1%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  text-align: center;
 }
 
 header {
@@ -30,4 +55,44 @@ header {
 
 nav {
   background-color: #FFD6EE;
+  text-align: center;
+}
+
+#nav2 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+#left {
+  width: 35%;
+  float: left;
+  padding-right: 1%;
+  padding-left: 20%;
+  text-align: center;
+}
+
+#right {
+  width: 23%;
+  float: left;
+  padding: 1%;
+  text-align: center;
+}
+
+#Logo{
+  text-align: center;
+}
+
+#container{
+  text-align: center;
+}
+
+#asideTitle {
+  font-family: 'hvd_comic_serif_proregular', sans-serif;
+}
+
+#asideDescription {
+  font-family: 'Quicksand', sans-serif;
 }
